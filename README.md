@@ -71,7 +71,22 @@ telegram-ai-restaurant-assistant/
 
 ## 📸 Screenshots
 
-Coming Soon
+
+### n8n Workflow
+
+![n8n Workflow](screenshots/workflow.png)
+
+### Telegram Chat
+
+![Telegram Chat](screenshots/telegram-chat.png)
+
+### Google Sheets Database
+
+![Google Sheets](screenshots/google%20sheet%20.png)
+
+### Architecture Diagram
+
+![Architecture](docs/architecture.png)
 
 ---
 
