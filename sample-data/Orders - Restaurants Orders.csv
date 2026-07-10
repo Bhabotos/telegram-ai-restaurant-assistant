@@ -1,0 +1,5 @@
+Order ID,Order Date,Customer Name,Phone,Telegram  ID,Ordered Items,Quantity,Total (BDT),Delivery Address,Payment Method,Order Status,Remarks
+ORD202607100006,2026-07-10 15:02,Shisir Das,1715525132,N/A,Chicken Burger x2,2,560,Uttar Badda,bKash,Pending,Retry after earlier failure
+ORD202607100007,2026-07-10 15:05,Shisir Das,1715525132,N/A,Chicken Burger x2,2,560,Uttar Badda,bKash,Pending,Parallel test
+ORD202607100008,2026-07-10 14:35:00,Shisir Das,1715525132,,Coke 500ml x1,1,50,"Haipara, Uttar Badda",bKash,Pending,
+ORD202607100001,2026-07-10 12:00:00,Shisir Das,1715525132,,BBQ Chicken Pizza x2,2,1900,"Haipara Uttar, Badda",bKash,Pending,
